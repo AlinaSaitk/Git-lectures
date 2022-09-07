@@ -66,3 +66,7 @@
 1. **Показать имеющиеся ветки:**
 
         git branch
+
+2. **Создание новой ветки:**
+
+        git branch name_of_new_branch
