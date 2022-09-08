@@ -59,3 +59,14 @@
 
 >git checkout master
 
+2. **Перешли на другую ветку:**
+>git checkout имя_ветки
+
+# Lecture 2
+
+1. **Переход между ветками**
+>git checkout имя_ветки
+
+>git checkout master  -  вернуться к ветке мастер
+
+
