@@ -57,6 +57,7 @@
 >git checkout master
 
 
+
 # GIT - лекция 2
 
 >Clear - очистить окно терминала
@@ -65,11 +66,16 @@
 
 1. **Показать имеющиеся ветки:**
 
-        git branch
+>git branch
 
 2. **Создание новой ветки:**
 
-        git branch name_of_new_branch
+>git branch name_of_new_branch
+
+3. **Переход между ветками**
+>git checkout имя_ветки
+
+>git checkout master  -  вернуться к ветке мастер
 
 
 
