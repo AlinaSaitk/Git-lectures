@@ -59,8 +59,6 @@
 
 >git checkout master
 
-2. **Перешли на другую ветку:**
->git checkout имя_ветки
 
 # Lecture 2
 
